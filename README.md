@@ -19,3 +19,5 @@ In this html resides 3 images for my portfolio. These are simply place holders u
 
 Style.css:
 This file holds some personal style changes I made.
+
+Link: https://tasoko.github.io/Portfolio-HW/
