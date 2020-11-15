@@ -6,16 +6,16 @@ In this respository are 4 created files. The files consist of index.html = About
 
 About:
 In this html resides the home/about page of my personal website. On the page is a small box of information about me. These were created using rows and columns to move elements around on the page. 
-![About Page](Assets/images/AboutPage)
+![About Page](Assets/images/AboutPage.png)
 
 Contact:
 In this html resides a form. On this form a user can write their name and email as well as a message they would want me to receive. 
-![Contact Page](Assets/images/ContactPage)
+![Contact Page](Assets/images/ContactPage.png)
 
 Portfolio:
 In this html resides 3 images for my portfolio. These are simply place holders until I actually have something worth sharing.
 
-![Portfolio Page](Assets/images/screencapture-file-Users-thokozilesoko-Desktop-GitRepos-)
+![Portfolio Page](Assets/images/screencapture-file-Users-thokozilesoko-Desktop-GitRepos-.pdf)
 
 Style.css:
 This file holds some personal style changes I made.
