@@ -15,7 +15,7 @@ In this html resides a form. On this form a user can write their name and email 
 Portfolio:
 In this html resides 3 images for my portfolio. These are simply place holders until I actually have something worth sharing.
 
-![Portfolio Page](Assets/Images/screencapture-file-Users-thokozilesoko-Desktop-GitRepos-.pdf)
+![Portfolio Page](Assets/Images/screencapture-file-Users-thokozilesoko-Desktop-GitRepos-Portfolio-HW-portfolio-html-2020-11-14-19_58_52.pdf)
 
 Style.css:
 This file holds some personal style changes I made.
