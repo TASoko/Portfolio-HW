@@ -6,21 +6,16 @@ In this respository are 4 created files. The files consist of index.html = About
 
 About:
 In this html resides the home/about page of my personal website. On the page is a small box of information about me. These were created using rows and columns to move elements around on the page. 
-![About Page](Assets/Images/AboutPage.png)
+![About Page](../Assets/Images/AboutPage.png)
 
 Contact:
 In this html resides a form. On this form a user can write their name and email as well as a message they would want me to receive. 
-![Contact Page](Assets/Images/ContactPage.png)
+![Contact Page](../Assets/Images/ContactPage.png)
 
 Portfolio:
 In this html resides 3 images for my portfolio. These are simply place holders until I actually have something worth sharing.
 
-![Portfolio Page](Assets/Images/screencapture-file-Users-thokozilesoko-Desktop-GitRepos-Portfolio-HW-portfolio-html-2020-11-14-19_58_52.pdf)
+![Portfolio Page](../Assets/Images/Portfolio.pdf)
 
 Style.css:
 This file holds some personal style changes I made.
-<<<<<<< HEAD
-=======
-
-Link: https://tasoko.github.io/Portfolio-HW/
->>>>>>> bae2491289590451a2a96ad9acec9f2647b343c4
