@@ -39,4 +39,9 @@ header {
 /*Below is the CSS for the Portfolio Page*/
 #portfolio {
     color:#007bff ;
+
+}
+.col-12 {
+  background: #6c757d;
+  max-height: 800px;
 }
