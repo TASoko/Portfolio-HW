@@ -1,4 +1,4 @@
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+# Responsive Portfolio
 
 Project: The project was the create a personal website as both a location for future employers to look at but also to create responsive pages.
 
