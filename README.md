@@ -7,6 +7,18 @@ In this respository are 4 created files. The files consist of index.html = About
 About:
 In this html resides the home/about page of my personal website. On the page is a small box of information about me. These were created using rows and columns to move elements around on the page. 
 
+Deployed Link: https://tasoko.github.io/Portfolio-HW/index.html
+
+Technologies Used: 
+HTML
+Javascript
+CSS
+API
+
+Contributors: 
+Tom Rumore
+Wendy Figueroa 
+
 ![About Page](docs/about-me.png)
 
 Contact:
