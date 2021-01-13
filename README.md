@@ -6,7 +6,7 @@ In this respository are 4 created files. The files consist of index.html = About
 
 About:
 In this html resides the home/about page of my personal website. On the page is a small box of information about me. These were created using rows and columns to move elements around on the page. 
-![About Page](../Assets/Images/AboutPage.png)
+![About Page] (../Assets/Images/AboutPage.png)
 
 Contact:
 In this html resides a form. On this form a user can write their name and email as well as a message they would want me to receive. 
