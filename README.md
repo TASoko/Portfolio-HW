@@ -15,9 +15,6 @@ Javascript
 CSS
 API
 
-Contributors: 
-Tom Rumore
-Wendy Figueroa 
 
 ![About Page](docs/about-me.png)
 
